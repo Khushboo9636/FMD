@@ -1,4 +1,4 @@
 streamlit==0.90.0
-opencv-python==4.8.0
+opencv-python==4.8.0.0
 # Add any other required packages
 

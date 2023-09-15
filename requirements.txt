@@ -1,0 +1,5 @@
+python==3.9
+streamlit
+opencv-python
+# Add any other required packages
+
